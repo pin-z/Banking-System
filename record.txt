@@ -1,0 +1,10 @@
+qwerty
+ Account Number: 1874937890
+ Account Type:  Saving Account
+ Name: HarisMubeen
+ Email Address: 211048@students.au.edu.pk
+ Date of birth: 9/09/2000
+ Phone number: 232443444
+ CNIC number: 31303-7144054-5
+ Your Account Balance is 20245
+ 8900
